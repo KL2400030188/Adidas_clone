@@ -23,3 +23,15 @@ nav ul li {
     margin: 0 15px;
     color: white;
 }
+.shoeCollection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.shoes img,.shoes img:hover {
+    width: 100%;
+    height: 90%;
+    transition: transform 0.3s ease;
+
+}

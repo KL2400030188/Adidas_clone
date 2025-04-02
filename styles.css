@@ -35,3 +35,17 @@ nav ul li {
     transition: transform 0.3s ease;
 
 }
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+footer a{
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
